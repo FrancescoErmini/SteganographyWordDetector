@@ -34,13 +34,9 @@ public class DemoIterator {
 		 * 
 		 * @Note StringParser is build according to the Strategy Pattern
 		 */
-		String paths[]={ "/Users/Francesco/Desktop/Annuncio.txt",
-				"/Users/Francesco/Desktop/Annuncio2.txt",
-				"/Users/Francesco/Desktop/Annuncio3.txt",
-				"/Users/Francesco/Desktop/Annuncio4.txt",
-				"/Users/Francesco/Desktop/Annuncio5.txt",
-				"/Users/Francesco/Desktop/Annuncio6.txt",
-				"/Users/Francesco/Desktop/Annuncio7.txt"
+		String paths[]={ "./Annuncio.txt",
+				"./Annuncio2.txt",
+				"./Annuncio3.txt",
 		};
 		
 		
